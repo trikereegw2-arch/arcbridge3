@@ -1,0 +1,25 @@
+[
+  {
+    "id": "20260222-190256-lysu",
+    "title": "Leo Stole My Heart",
+    "commanders": [
+      "Leo Stole My Heart"
+    ],
+    "dateStart": "2026-02-23T03:02:56.000Z",
+    "dateEnd": "2026-02-23T03:37:58.000Z",
+    "dateLabel": "2/22/2026, 7:02:56 PM - 2/22/2026, 7:37:58 PM",
+    "url": "https://trikereegw2-arch.github.io/arcbridge3/?report=20260222-190256-lysu",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 10,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 34,
+      "avgEnemySize": 46
+    }
+  }
+]
